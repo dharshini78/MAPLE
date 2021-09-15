@@ -1,16 +1,23 @@
-# test1
+# An E-Commerce app to be made with Flutter
 
-A new Flutter project.
 
-## Getting Started
+# DEMO DEPICTIONS OF THE APP
 
-This project is a starting point for a Flutter application.
+<img src="https://raw.githubusercontent.com/dharshini78/MAPLE/master/assets/images/splashscreen.jpeg" data-canonical-src="https://raw.githubusercontent.com/dharshini78/MAPLE/master/assets/images/splashscreen.jpeg" width="300" height="600" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/dharshini78/MAPLE/blob/master/login.jpeg?raw=true" data-canonical-
+src="https://github.com/dharshini78/MAPLE/blob/master/login.jpeg?raw=true" width="300" height="600" />
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/dharshini78/MAPLE/blob/master/assets/images/404.jpeg?raw=true" data-canonical-src="https://github.com/dharshini78/MAPLE/blob/master/assets/images/404.jpeg?raw=true" width="300" height="600" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Best websites for customizable Illustrations!
+
+
+## [UnDraw](https://undraw.co/).
+## [DrawKit](https://www.drawkit.io/).
+## [Absurd Illustrations](https://absurd.design/).
+## [ManyPixels](https://www.manypixels.co/gallery).
+## [Freebie Supply](https://freebiesupply.com/).
+## [Vivid.js](https://freebiesbug.com/code-stuff/vivid-icons/).
+## [Humaaans](https://www.humaaans.com/).
+## [Interfacer](https://interfacer.xyz/).
